@@ -1,0 +1,13 @@
+import nltk
+from nltk import bigrams
+from nltk import trigrams
+from nltk import FreqDist
+from nltk.util import ngrams
+from nltk.probability import LidstoneProbDist
+from collections import Counter
+from itertools import product
+from math import log
+from math import exp
+from Bio.Seq import Seq
+from Bio import SeqIO
+import os;

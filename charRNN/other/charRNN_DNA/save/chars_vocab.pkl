@@ -1,0 +1,15 @@
+((S'A'
+S'T'
+S'G'
+S'C'
+tp1
+(dp2
+S'A'
+I0
+sS'C'
+I3
+sS'T'
+I1
+sS'G'
+I2
+st.
